@@ -1,0 +1,36 @@
+﻿h3{
+	font-family:Arial;
+	font-size:18px;
+	font-weight:normal;
+	color:#666;
+	margin-bottom:15px;
+	margin-top:10px;
+}
+			
+#container{
+	width:420px;
+	padding:30px;
+	border:1px solid #e4e4e4;
+	margin:0 auto;
+	background:#FFF; 
+	margin-top:100px;
+	margin-bottom:50px;
+}
+
+.button{
+	display:block;
+	width:101px;
+	height:50px;
+	background:url(button.png)no-repeat;
+	cursor:pointer; 
+}
+
+.button span.hover{
+	display:block;
+	width:101px;
+	height:50px;
+	background:url(button.png)no-repeat;
+	background-position:bottom;
+	cursor:pointer;
+	}
+
